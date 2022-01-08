@@ -101,7 +101,8 @@ h3 {
 }
 
 h4 {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
+    font-weight: 900;
 }
 
 h5 {
@@ -3365,6 +3366,12 @@ button {
     cursor: pointer;
 }
 
+div #waitlist1 .prefinery-form-embed {
+    width: 50% !important;
+    margin-top: 60vh !important;
+    height: 100px;
+}
+
 .form-check label::before {
     width: 17px;
     height: 17px;
@@ -3617,7 +3624,8 @@ footer .copyrights>a:focus {
         font-size: 1.5rem;
     }
     h4 {
-        font-size: 1.125rem;
+        font-size: 1.5rem;
+        font-weight: 900;
     }
     p {
         font-size: 13px;
