@@ -3656,4 +3656,7 @@ footer .copyrights>a:focus {
         line-height: 34px;
         font-size: 16px;
     }
+    h1 {
+        font-size: 24px !important;
+    }
 }
