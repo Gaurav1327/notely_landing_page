@@ -42,7 +42,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Raleway:200,300,400,500,600,700,800');
 body {
-    font-family: 'Segoe UI', sans-serif;
+    font-family: 'Segoe UI';
     font-size: 15px;
     color: #a5a5a5;
     font-weight: normal;
@@ -154,7 +154,7 @@ p,
 .webcats li a>span,
 .getin_form .form-control,
 .food-box .price {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans';
 }
 
 .padding {
@@ -2499,7 +2499,7 @@ body:not(.gradients) .progress-bars .progress .progress-bar {
     font-weight: bold;
     font-size: 5.625rem;
     line-height: 1;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Segoe UI';
 }
 
 .portfolio-cap {
