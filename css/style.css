@@ -3458,7 +3458,8 @@ textarea:-ms-input-placeholder {
 /*----- Footer -----*/
 
 footer .copyrights {
-    font-size: 13px;
+    font-size: 16px;
+   margin-bottom: 0 px;
 }
 
 .footer-logo {
