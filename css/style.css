@@ -105,6 +105,12 @@ h3 {
    font-size: 16px;
 }
 
+.policyText{
+    font-family: segoe UI;
+    font-size: 1.1rem;
+    color: #676767;
+ }
+
 h4 {
     font-size: 1.5rem;
     font-weight: 900;
